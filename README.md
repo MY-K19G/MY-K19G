@@ -10,7 +10,7 @@
 - Frameworks: **Spring Boot, Spring Security, Hibernate**
 - Database Systems: **MySQL, Oracle, H2, PostgreSQL**
 - Tools & Platforms: **Git, Docker, Maven**
-- Frontend: **JSP, HTML, CSS, JavaScript**
+- Frontend: **JSP, HTML, CSS, JavaScript,Bootstrap**
 - Cloud & Microservices: **RESTful APIs, Cloud-Native Applications**
 - Specialties: **Multi-threading, Concurrency, Collections, Java Streams**
 
