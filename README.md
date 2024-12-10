@@ -23,7 +23,6 @@
 - Consistent contributor to open-source projects.
 - Proficient in designing enterprise-level applications.
 - Passionate about clean code and best practices.
-- Feel free to explore my repositories and connect with me for collaborations! 🚀
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MY-K19G/MY-K19G/output/github-snake-dark.svg" />
