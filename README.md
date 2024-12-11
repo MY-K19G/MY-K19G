@@ -9,7 +9,7 @@
 - Languages: **Java, SQL**
 - Frameworks: **Spring Boot, Spring Security, Hibernate**
 - Database Systems: **MySQL, Oracle, H2, PostgreSQL**
-- Tools & Platforms: **Git, Docker, Maven**
+- Tools & Platforms: **Git, Docker, Postman, Maven**
 - Frontend: **JSP, HTML, CSS, JavaScript,Bootstrap**
 - Cloud & Microservices: **RESTful APIs, Cloud-Native Applications**
 - Specialties: **Multi-threading, Concurrency, Collections, Java Streams**
